@@ -1,0 +1,33 @@
+CONTENTS:
+	1. Group Members
+	2. Instructions
+	3. Submission
+
+
+
+------------------------------1. GROUP MEMBERS——————————————
+
+Assignment1: Neural Network
+Group Members:
+			Ting Zhou, student#: 50169020
+			Xuan Han, student#:50168962
+
+e-mail:
+		    tzhou6@buffalo.edu
+		    xuanhan@buffalo.edu
+University: 
+		  University at Buffalo
+
+
+-----------------------------2. INSTRUCTIONS---------------------
+Added function: sigmoidGradient(z), to calculate the gradient of sigmoid function
+We split nnObjFunction into nnObjFunctionVal and nnObjGradient, in order to use fmin_cg.
+
+
+
+-----------------------------3. SUBMISSION—————————————
+
+1. nnScript.py
+2. facennScript.py
+3. params.pickle
+4. report
